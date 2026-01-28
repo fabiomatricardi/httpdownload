@@ -1,4 +1,6 @@
+
 # httpdownload 🖥️
+
 
 **One command. Zero hassle. Beautiful downloads.**
 
@@ -8,7 +10,7 @@ httpdownload "https://github.com/user/repo/blob/main/file.gif"
 
 Downloads files with a **Rich progress bar** and **auto-fixes GitHub blob→raw URLs**.
 
-[![Demo GIF](demo.gif)](demo.gif)
+<img width="1664" height="928" alt="1769522496" src="https://github.com/user-attachments/assets/30af4f95-4c57-41a5-94a6-006784d28db0" />
 
 ## ✨ Features
 
