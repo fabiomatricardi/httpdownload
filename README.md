@@ -10,7 +10,7 @@ httpdownload "https://github.com/user/repo/blob/main/file.gif"
 
 Downloads files with a **Rich progress bar** and **auto-fixes GitHub blob→raw URLs**.
 
-<img width="1664" height="928" alt="1769522496" src="https://github.com/user-attachments/assets/30af4f95-4c57-41a5-94a6-006784d28db0" />
+<img src='https://github.com/fabiomatricardi/httpdownload/raw/main/httpdownloadFABIO.gif' width=900>
 
 ## ✨ Features
 
